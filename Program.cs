@@ -7,6 +7,7 @@ namespace Git_Configs_Learning
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
