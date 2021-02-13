@@ -1,0 +1,16 @@
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\Git_Configs_Learning.exe
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\Git_Configs_Learning.deps.json
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\Git_Configs_Learning.runtimeconfig.json
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\Git_Configs_Learning.runtimeconfig.dev.json
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\Git_Configs_Learning.dll
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\ref\Git_Configs_Learning.dll
+D:\Repos\Git_Configs_Learning\bin\Debug\net5.0\Git_Configs_Learning.pdb
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.csprojAssemblyReference.cache
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.AssemblyInfoInputs.cache
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.AssemblyInfo.cs
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.csproj.CoreCompileInputs.cache
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.dll
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\ref\Git_Configs_Learning.dll
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.pdb
+D:\Repos\Git_Configs_Learning\obj\Debug\net5.0\Git_Configs_Learning.genruntimeconfig.cache
