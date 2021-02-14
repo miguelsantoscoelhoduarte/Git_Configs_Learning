@@ -8,6 +8,7 @@ namespace Git_Configs_Learning
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
